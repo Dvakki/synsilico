@@ -194,7 +194,7 @@ p {
 .header .header-content .logo img {
   height: auto;
   width: 100%;
-  max-width: 100px;
+  max-width: 125px;
 }
 
 .btn.secondary {
